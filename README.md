@@ -1,5 +1,5 @@
 # QML-Implementation
-Winter in Data Science Project, Analytics Club, IIT Bombay
+Winter in Data Science Project-2022, Analytics Club, IIT Bombay
 
 Mentors: Aditya Sriram, Siddhant Midha
 
